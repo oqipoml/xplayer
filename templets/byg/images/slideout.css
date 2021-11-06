@@ -41,7 +41,7 @@ a {
 .menu-header {
   border-bottom: 1px solid #2a2d2f;
   padding: 20px 0 20px 60px;
-  background: url('images/github.png') no-repeat 15px 15px;
+  background: url('github.png') no-repeat 15px 15px;
   background-size: 32px;
 }
 .menu-header-title {
@@ -98,7 +98,7 @@ a {
   color: #4B5;
   font-weight: 400;
   padding-top: 82px;
-  background: url('images/mango-logo.png') no-repeat center top;
+  background: url('mango-logo.png') no-repeat center top;
 }
 .subtitle {
   font-weight: 400;
@@ -138,7 +138,7 @@ a {
   background-color: rgba(0,0,0,.02);
 }
 .iphone {
-  background: url('images/iphone5.png') no-repeat;
+  background: url('iphone5.png') no-repeat;
   position: relative;
   margin: 0 auto;
   width: 298px;
